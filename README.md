@@ -82,7 +82,7 @@ Este código HTML cria uma página com a interface básica de login do Instagram
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Visual Studio Code](https://code.visualstudio.com/download) - Code Editing Redefined
+* [Visual Studio Code](https://code.visualstudio.com/download) - Code Editing
 
 
 ## ✒️ Autor
